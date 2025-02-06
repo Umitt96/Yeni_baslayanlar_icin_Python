@@ -1,1 +1,1 @@
-.
+Udemy kursunun kaynak dosyalarıdır.
