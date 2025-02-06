@@ -1,0 +1,5 @@
+https://www.veribilimiokulu.com/pratik-bilgiler-pratik-komutlar-python-pandas/
+
+https://www.kaggle.com/code/mert34/python-le-temel-veri-analizi
+
+https://gelecegiyazanlar.turkcell.com.tr/blog/python-kutuphanesi-pandas

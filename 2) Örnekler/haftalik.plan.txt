@@ -1,0 +1,1 @@
+{'Pazartesi': ['Kitap oku'], 'Salı': ['skdfnkdsf'], 'Çarşamba': ['sdjkfndjksf'], 'Perşembe': ['sdjkfkjnsdfkjns'], 'Cuma': ['sdjkfksdjnf'], 'Cumartesi': ['sdkfjnsdkjnffjkns'], 'Pazar': []}
